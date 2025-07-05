@@ -17,3 +17,5 @@ Safe to add mid save.
 Can be removed mid save but it's NOT recommended.
 
 NOT COMPATIBLE WITH 1.5, Rimworld Vanilla 1.6 fixes the original problem.
+
+Created in 23 Nov, 2023
